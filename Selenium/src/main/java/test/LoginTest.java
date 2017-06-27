@@ -6,7 +6,7 @@ import page.LoginPage;
 
 import org.testng.annotations.Test;
 
-public class Selenium extends BaseTest {
+public class LoginTest extends BaseTest {
 		
 
 	@Test
